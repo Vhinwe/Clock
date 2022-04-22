@@ -21,7 +21,7 @@
     display: flex;
     align-items: center;
     background: none;
-    /* justify-content:space-evenly; */
+    justify-content:space-evenly;
 }
     
 .flex1{
@@ -73,9 +73,9 @@ h4{
     font-weight: 700;
     color: Aqua;
 }
-.square{
+/* .square{
     margin-left: 600px;
-    /* margin-top: 11px; */
+    /* margin-top: 11px; 
     background: none;
 }
 #ta1{
@@ -86,7 +86,7 @@ h4{
     font-size: 50px;
     margin-left: 410px;    
     background: black;
-}
+} */ 
 #moon{
     border: 1px solid Aqua;
     background-color: black;
